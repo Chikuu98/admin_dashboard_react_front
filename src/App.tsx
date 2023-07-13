@@ -10,6 +10,7 @@ import Footer from "./components/footer/Navbar";
 import Menu from "./components/menu/Navbar";
 import Users from "./pages/users/Users";
 import Login from "./pages/login/Login";
+import "./styles/global.scss"
 
 function App() {
 
