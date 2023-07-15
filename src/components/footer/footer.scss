@@ -1,3 +1,16 @@
 .footer {
-     background-color: rgb(252, 224, 224);
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     padding: 30px;
+
+     span{
+          &:first-child{
+               font-weight: bold;
+          }
+
+          &:last-child{
+               font-weight: 14px;
+          }
+     }
 }
