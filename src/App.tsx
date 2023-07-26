@@ -6,8 +6,8 @@ import {
 } from "react-router-dom";
 import Products from "./pages/products/Products";
 import Navbar from "./components/navbar/Navbar";
-import Footer from "./components/footer/Navbar";
-import Menu from "./components/menu/Navbar";
+import Footer from "./components/footer/Footer";
+import Menu from "./components/menu/Menu";
 import Users from "./pages/users/Users";
 import Login from "./pages/login/Login";
 import "./styles/global.scss"
